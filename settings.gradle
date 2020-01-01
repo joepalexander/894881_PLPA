@@ -1,0 +1,2 @@
+include ':app', ':mainactivity'
+rootProject.name='JPA_PLPA'
