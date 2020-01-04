@@ -1,0 +1,58 @@
+//TheOpeningScreen
+<string name="node1Value">Thank you for joining us on this platform
+to hopefully begin to promote a healthier way of living for yourself and
+the people around you. As was stated in the preview screen, this application
+was installed at your own risk, such as the information provided being taken
+at your own discretion.</string>
+<string name="node1Question">Did you know that, generally, the recommended
+daily calorie intake is 2,000 calories for women and 2,500 for men?*</string>
+<string name="node1Decision1">Yes</string>
+<string name="node1Decision2">No</string>
+
+//First Screen
+<string name="node2Value">Thank you for joining us on this platform
+to hopefully begin to promote a healthier way of living for yourself and
+the people around you. As was stated in the preview screen, this application
+was installed at your own risk, such as the information provided being taken
+at your own discretion.</string>
+<string name="node2Question">Did you know that, generally, the recommended
+daily calorie intake is 2,000 calories for women and 2,500 for men?*</string>
+<string name="node2Decision1">Yes</string>
+<string name="node2Decision2">No</string>
+
+//When yes selected, this value is enabled
+<string name="node3Value">The next questions are likely to contain the
+requirement for some personal information. This is all anonymous, as well
+as never stored.</string>
+<string name="node3Question">If you had to classify as one or the other; would
+you sugged you feel you are undereating (not eating enough) or
+overeating (eating more than you feel you should)?</string>
+<string name="node3Decision1"> Undereating</string>
+<string name="node3Decision2">Overeating</string>
+
+<string name="node4Value">Recognising the NHS defined limit of </string>
+<string name="node4Question">Use some magic concealment or grab the gold and leg it?</string>
+<string name="node4Decision1">Grab the gold</string>
+<string name="node4Decision2">Use magic</string>
+
+<string name="node5Value">Thinking of all the wide sleeve robes you could buy, you approach the pile of gold. As you make it within a few feet of the gold, the mound growing as more of the cave becomes visible, it stirs suddenly. The gigantic head of a dragon protrudes from the mound of gold, you try to turn back but too late! The dragon having spotted you, raises its head and decimates you with it\'s fiery breath. Your body falls to ash, a fitting death for a greedy thief.</string>
+
+<string name="node6Value">You cast a spell of concealment on yourself and cautiosuly make your way to the pile of gold, more appearing as you see the size of the cave ahead. while observing the mound you realise it\'s moving steadily up and down, a dragon lurks within, waiting to prey on the greedy. You spot light from a tunnel on the other side of the gold.</string>
+<string name="node6Question">Turn back and continue up the mountain or see where the tunnel leads?</string>
+<string name="node6Decision1">(unfinished)</string>
+<string name="node6Decision2">Turn back</string>
+
+<string name="node7Value">You consider yourself to be \"overeating\". In most
+cases, it is going to be medically unlikely that you are overeating.</string>
+<string name="node7Question">Firstly, do you maintain a daily diet surpassing
+  2750 calories??</string>
+<string name="node7Decision1">Yes</string>
+<string name="node7Decision2">No</string>
+
+<string name="node10Value">From what you have told me, you believe that you
+are \"undereating\". The concept of undereating is one that can be very serious to both
+your physical and mental health..
+We are unable to give any further advice on this matter, but highly recommend that
+you consult professional help (whether it be your General Practioner or specialised
+psycological help). With the development of this app, we could be adding medically
+backed support, so check back in the future!</string>

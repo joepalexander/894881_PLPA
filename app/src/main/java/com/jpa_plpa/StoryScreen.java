@@ -40,30 +40,33 @@ public class StoryScreen extends AppCompatActivity {
         update();
     }
 
-    // Setup method for the wizard story
+    // Setup method for the calorie questioning
     public StoryTree wizardsJourney() {
         StoryTree s = new StoryTree();
 
-        // Setting up the story tree with the appropriate resource ids.
         s.fillNode(R.string.node1Value, R.string.node1Question,
                 R.string.node1Decision1, R.string.node1Decision2);
         s.createLeft(R.string.node2Value, R.string.node2Question,
                 R.string.node2Decision1, R.string.node2Decision2);
+        s.createRight(R.string.node8Value); //End right path
 
         s.moveLeft();
 
-        s.createLeft(R.string.node3Value, R.string.node3Question,
-                R.string.node3Decision1, R.string.node3Decision2);
-        s.createRight(R.string.node6Value);
 
-        s.moveLeft();
+        s.createLeft(R.string.node10Value);
+        s.createRight(R.string.node6Value, R.string.node6Question,
+                R.string.node6Decision1, R.string.node6Decision2);
+        s.moveRight();
+
 
         s.createLeft(R.string.node4Value);
         s.createRight(R.string.node5Value, R.string.node5Question,
                 R.string.node5Decision1, R.string.node5Decision2);
 
         s.moveRight();
-        s.linkRight(R.string.node6Value);
+        s.createLeft(R.string.node11Value);
+        s.createRight(R.string.node1Value);
+        //s.linkRight(R.string.node6Value);
 
         s.toRoot(); // Return the view to root after creation.
 

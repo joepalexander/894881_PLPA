@@ -12,7 +12,7 @@ import android.content.Intent;
 public class MainActivity extends AppCompatActivity {
 
     private Vibrator haptic;
-    private boolean switchValue = false;
+    private boolean switchValue = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

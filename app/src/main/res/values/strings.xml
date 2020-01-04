@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">You and Your Health</string>
+    <string name="app_name">Rid the Fat</string>
     <string name="story1">Let\'s Learn About You.</string>
     <string name="switchString">Path choice undoable</string>
 
@@ -8,35 +8,119 @@
     <!--    <string name="nodeDecision1"></string>-->
     <!--    <string name="nodeDecision2"></string>-->
 
-    <string name="returnButton">Return to start</string>
-    <string name="menuButton">Return to menu</string>
-    <string name="undoButton">Undo</string>
+    <string name="returnButton">Start Again</string>
+    <string name="menuButton">Main Menu</string>
+    <string name="undoButton">Step Back</string>
 
-    <string name="node1Value">You\'re a wizard  on your way to get a magical flower for your potions. The flower only blooms on a blue moon, three days from now. You set out from your hovel and head onto the winding path.</string>
-    <string name="node1Question">The forrest path forks, the left path twists, heading up a mountain path, the right side leading by a river. Which do you choose?</string>
-    <string name="node1Decision1">Mountain path</string>
-    <string name="node1Decision2">River path</string>
+    <string name="node1Value">Thank you for joining us on this platform
+    to hopefully begin to promote a healthier way of living for yourself and
+    the people around you. As was stated in the preview screen, this application
+    was installed at your own risk, such as the information provided being taken
+    at your own discretion.</string>
 
-    <string name="node2Value">You take the mountain path, it leads past a the entrance to what looks like a cave. You think you see something gliter from the dark within. What do you do?</string>
-    <string name="node2Question">Investigate the cave entrance or continue on your long way around the mountain?</string>
-    <string name="node2Decision1">Investigate</string>
-    <string name="node2Decision2">Continue</string>
+    <string name="node1Question">Did you know that, generally, the recommended
+    daily calorie intake is 2,000 calories for women and 2,500 for men?*</string>
 
-    <string name="node3Value">You enter the cave. The glimmer seems to have been from trails of gold piled up ahead, how do you want to proceed?</string>
+    <string name="node1Decision1">Yes</string>
+    <string name="node1Decision2">No</string>
+    <string name="node01Value">Thank you for joining us on this platform
+    to hopefully begin to promote a healthier way of living for yourself and
+    the people around you. As was stated in the preview screen, this application
+    was installed at your own risk, such as the information provided being taken
+    at your own discretion.</string>
+
+    <string name="node01Question">Did you know that, generally, the recommended
+    daily calorie intake is 2,000 calories for women and 2,500 for men?*</string>
+
+    <string name="node01Decision1">Yes</string>
+    <string name="node01Decision2">No</string>
+
+    <string name="node2Value">The next questions are likely to contain the
+    requirement for some personal information. This is all anonymous, as well
+    as never stored.</string>
+    <string name="node2Question">If you had to classify as one or the other; would
+    you sugged you feel you are undereating (not eating enough) or
+    overeating (eating more than you feel you should)?</string>
+    <string name="node2Decision1"> Undereating</string>
+    <string name="node2Decision2">Overeating</string>
+
+    <string name="node3Value">Recognising the NHS defined limit of </string>
     <string name="node3Question">Use some magic concealment or grab the gold and leg it?</string>
     <string name="node3Decision1">Grab the gold</string>
     <string name="node3Decision2">Use magic</string>
 
     <string name="node4Value">Thinking of all the wide sleeve robes you could buy, you approach the pile of gold. As you make it within a few feet of the gold, the mound growing as more of the cave becomes visible, it stirs suddenly. The gigantic head of a dragon protrudes from the mound of gold, you try to turn back but too late! The dragon having spotted you, raises its head and decimates you with it\'s fiery breath. Your body falls to ash, a fitting death for a greedy thief.</string>
 
-    <string name="node5Value">You cast a spell of concealment on yourself and cautiosuly make your way to the pile of gold, more appearing as you see the size of the cave ahead. while observing the mound you realise it\'s moving steadily up and down, a dragon lurks within, waiting to prey on the greedy. You spot light from a tunnel on the other side of the gold.</string>
-    <string name="node5Question">Turn back and continue up the mountain or see where the tunnel leads?</string>
-    <string name="node5Decision1">(unfinished)</string>
-    <string name="node5Decision2">Turn back</string>
+    <string name="node5Value">Using the information you have provided me, it is
+    is very unlikely that you are overeating. However it is never as easy as just
+    diagnosing it. If you feel as if it is having majorly adverse affects on you,
+    then booking to see your GP (General Practioner) would most likely be thes best
+    course of action. However, i can still provide you with some hopefully helpful
+    information.</string>
+    <string name="node5Question">Would you like some advice that may help you
+    control what you are eating?</string>
+    <string name="node5Decision1">Yes</string>
+    <string name="node5Decision2">No (finish)</string>
 
-    <string name="node6Value">You make your way further up the mountain...</string>
-    <string name="node6Question"></string>
-    <string name="node6Decision1"></string>
-    <string name="node6Decision2"></string>
+    <string name="node6Value">You consider yourself to be \"overeating\". In most
+    cases, it is going to be unlikely that you are overeating.</string>
+    <string name="node6Question">Do you consume around or more than 3000 (three thousand)
+    calories throughout your average day? (e.g. 7am-8pm)</string>
+    <string name="node6Decision1">Yes, i consume around that or more</string>
+    <string name="node6Decision2">No, i consume less than the amount</string>
+
+    <string name="nodeMaleValue">Great, now that we have that established,
+    I can provide you with some accurate information. Being Male, the NHS suggests
+    that you should be attaining a diet of 2500 calories a day. Often people
+    recognise a 500 calorie margin above and below for those who are considered
+    to be either cutting (trying to lose weight) or bulking (attempting to gain
+    weight)</string>
+    <string name="nodeMaleQuestion">From the calorie consumption options provided
+      below, could you please select the one most accurate for yourself</string>
+    <string name="nodeMaleDecision1">1500-2500</string>
+    <string name="nodeMaleDecision2">2550+</string>
+
+    <string name="nodeFemaleValue">Great, now that we have that established,
+    I can provide you with some accurate information. Being Female, the NHS suggests
+    that you should be attaining a diet of 2000 calories a day. Often people
+    recognise a 500 calorie margin above and below for those who are considered
+    to be either cutting (trying to lose weight) or bulking (attempting to gain
+    weight)</string>
+    <string name="nodeFemaleQuestion">From the calorie consumption options provided
+      below, could you please select the one most accurate for yourself</string>
+    <string name="nodeFemaleDecision1">1000-1500</string>
+    <string name="nodeFemaleDecision2">2000+</string>
+
+    <string name="node10Value">From what you have told me, you believe that you
+    are \"undereating\". The concept of undereating is one that can be very serious to both
+    your physical and mental health..
+    We are unable to give any further advice on this matter, but highly recommend that
+    you consult professional help (whether it be your General Practioner or specialised
+    psycological help). With the development of this app, we could be adding medically
+    backed support, so check back in the future!</string>
+
+    <string name="node11Value">Great, now that we have that established,
+    I can provide you with some accurate information. Being Male, the NHS suggests
+    that you should be attaining a diet of 2500 calories a day. Often people
+    recognise a 500 calorie margin above and below for those who are considered
+    to be either cutting (trying to lose weight) or bulking (attempting to gain
+    weight)</string>
+    <string name="node11Question">From the calorie consumption options provided
+      below, could you please select the one most accurate for yourself</string>
+    <string name="node11Decision1">1500-2500</string>
+    <string name="node11Decision2">2550+</string>
+
+    <string name="nodeFemale1Value">Great, </string>
+    <string name="nodeFemale1Question">From the calorie consumption options provided
+      below, could you please select the one most accurate for yourself</string>
+    <string name="nodeFemale1Decision1">1000-1500</string>
+    <string name="nodeFemale1Decision2">2000+</string>
+
+
+
+    <string name="node8Value">Maybe before you go ahead with this tool,
+    it could benefit you to read up on the NHS\'s literature regarding
+  calorie intake and the healthy limits. It is linked here: https://bit.ly/37mkV7A</string>
+
 
 </resources>
